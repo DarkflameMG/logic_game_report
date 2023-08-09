@@ -2,4 +2,4 @@
 
 link [A2][1]
 
-[1]:   [http://google.com/ "Google"](https://docs.google.com/document/d/1IKnRLV43jsFUBqxbvm4Y-GQDjyRvdh5_OFR_PMn8J-s/edit)https://docs.google.com/document/d/1IKnRLV43jsFUBqxbvm4Y-GQDjyRvdh5_OFR_PMn8J-s/edit "A2"
+[1]:https://docs.google.com/document/d/1IKnRLV43jsFUBqxbvm4Y-GQDjyRvdh5_OFR_PMn8J-s/edit "A2"
