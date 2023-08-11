@@ -1,9 +1,8 @@
 # logic_game_report
-Overview\
 แหล่งรวม report สำหรับ project logic game \
 links \
 [A2 Project Proposal Report][1]\
-[A3][2]
+[A3 Contextual inquiry report][2]
 
 
 
